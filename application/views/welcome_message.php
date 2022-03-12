@@ -389,6 +389,258 @@
                 <div class="products-price">$783</div>
               </div>
             </div>
+            <div
+              class="col-6 col-md-4 col-lg-3"
+              data-aos="fade-up"
+              data-aos-delay="800"
+            >
+              <div class="component-products d-block">
+                <div class="products-thumbnail">
+                  <div
+                    class="products-image"
+                    style="
+                      background-image: url('<?= base_url()?>layout/images/new-products/products-8.jpg');
+                    "
+                  ></div>
+                  <a href="details.html" class="d-flex justify-content-center">
+                    <img src="<?= base_url()?>layout/images/badge.png" class="align-self-center" />
+                  </a>
+                </div>
+                <div class="products-text">Monkey Toys</div>
+                <div class="products-price">$783</div>
+              </div>
+            </div>
+            <div
+              class="col-6 col-md-4 col-lg-3"
+              data-aos="fade-up"
+              data-aos-delay="800"
+            >
+              <div class="component-products d-block">
+                <div class="products-thumbnail">
+                  <div
+                    class="products-image"
+                    style="
+                      background-image: url('<?= base_url()?>layout/images/new-products/products-8.jpg');
+                    "
+                  ></div>
+                  <a href="details.html" class="d-flex justify-content-center">
+                    <img src="<?= base_url()?>layout/images/badge.png" class="align-self-center" />
+                  </a>
+                </div>
+                <div class="products-text">Monkey Toys</div>
+                <div class="products-price">$783</div>
+              </div>
+            </div>
+            <div
+              class="col-6 col-md-4 col-lg-3"
+              data-aos="fade-up"
+              data-aos-delay="800"
+            >
+              <div class="component-products d-block">
+                <div class="products-thumbnail">
+                  <div
+                    class="products-image"
+                    style="
+                      background-image: url('<?= base_url()?>layout/images/new-products/products-8.jpg');
+                    "
+                  ></div>
+                  <a href="details.html" class="d-flex justify-content-center">
+                    <img src="<?= base_url()?>layout/images/badge.png" class="align-self-center" />
+                  </a>
+                </div>
+                <div class="products-text">Monkey Toys</div>
+                <div class="products-price">$783</div>
+              </div>
+            </div>
+            <div
+              class="col-6 col-md-4 col-lg-3"
+              data-aos="fade-up"
+              data-aos-delay="800"
+            >
+              <div class="component-products d-block">
+                <div class="products-thumbnail">
+                  <div
+                    class="products-image"
+                    style="
+                      background-image: url('<?= base_url()?>layout/images/new-products/products-8.jpg');
+                    "
+                  ></div>
+                  <a href="details.html" class="d-flex justify-content-center">
+                    <img src="<?= base_url()?>layout/images/badge.png" class="align-self-center" />
+                  </a>
+                </div>
+                <div class="products-text">Monkey Toys</div>
+                <div class="products-price">$783</div>
+              </div>
+            </div>
+            <div
+              class="col-6 col-md-4 col-lg-3"
+              data-aos="fade-up"
+              data-aos-delay="800"
+            >
+              <div class="component-products d-block">
+                <div class="products-thumbnail">
+                  <div
+                    class="products-image"
+                    style="
+                      background-image: url('<?= base_url()?>layout/images/new-products/products-8.jpg');
+                    "
+                  ></div>
+                  <a href="details.html" class="d-flex justify-content-center">
+                    <img src="<?= base_url()?>layout/images/badge.png" class="align-self-center" />
+                  </a>
+                </div>
+                <div class="products-text">Monkey Toys</div>
+                <div class="products-price">$783</div>
+              </div>
+            </div>
+            <div
+              class="col-6 col-md-4 col-lg-3"
+              data-aos="fade-up"
+              data-aos-delay="800"
+            >
+              <div class="component-products d-block">
+                <div class="products-thumbnail">
+                  <div
+                    class="products-image"
+                    style="
+                      background-image: url('<?= base_url()?>layout/images/new-products/products-8.jpg');
+                    "
+                  ></div>
+                  <a href="details.html" class="d-flex justify-content-center">
+                    <img src="<?= base_url()?>layout/images/badge.png" class="align-self-center" />
+                  </a>
+                </div>
+                <div class="products-text">Monkey Toys</div>
+                <div class="products-price">$783</div>
+              </div>
+            </div>
+            <div
+              class="col-6 col-md-4 col-lg-3"
+              data-aos="fade-up"
+              data-aos-delay="800"
+            >
+              <div class="component-products d-block">
+                <div class="products-thumbnail">
+                  <div
+                    class="products-image"
+                    style="
+                      background-image: url('<?= base_url()?>layout/images/new-products/products-8.jpg');
+                    "
+                  ></div>
+                  <a href="details.html" class="d-flex justify-content-center">
+                    <img src="<?= base_url()?>layout/images/badge.png" class="align-self-center" />
+                  </a>
+                </div>
+                <div class="products-text">Monkey Toys</div>
+                <div class="products-price">$783</div>
+              </div>
+            </div>
+            <div
+              class="col-6 col-md-4 col-lg-3"
+              data-aos="fade-up"
+              data-aos-delay="800"
+            >
+              <div class="component-products d-block">
+                <div class="products-thumbnail">
+                  <div
+                    class="products-image"
+                    style="
+                      background-image: url('<?= base_url()?>layout/images/new-products/products-8.jpg');
+                    "
+                  ></div>
+                  <a href="details.html" class="d-flex justify-content-center">
+                    <img src="<?= base_url()?>layout/images/badge.png" class="align-self-center" />
+                  </a>
+                </div>
+                <div class="products-text">Monkey Toys</div>
+                <div class="products-price">$783</div>
+              </div>
+            </div>
+            <div
+              class="col-6 col-md-4 col-lg-3"
+              data-aos="fade-up"
+              data-aos-delay="800"
+            >
+              <div class="component-products d-block">
+                <div class="products-thumbnail">
+                  <div
+                    class="products-image"
+                    style="
+                      background-image: url('<?= base_url()?>layout/images/new-products/products-8.jpg');
+                    "
+                  ></div>
+                  <a href="details.html" class="d-flex justify-content-center">
+                    <img src="<?= base_url()?>layout/images/badge.png" class="align-self-center" />
+                  </a>
+                </div>
+                <div class="products-text">Monkey Toys</div>
+                <div class="products-price">$783</div>
+              </div>
+            </div>
+            <div
+              class="col-6 col-md-4 col-lg-3"
+              data-aos="fade-up"
+              data-aos-delay="800"
+            >
+              <div class="component-products d-block">
+                <div class="products-thumbnail">
+                  <div
+                    class="products-image"
+                    style="
+                      background-image: url('<?= base_url()?>layout/images/new-products/products-8.jpg');
+                    "
+                  ></div>
+                  <a href="details.html" class="d-flex justify-content-center">
+                    <img src="<?= base_url()?>layout/images/badge.png" class="align-self-center" />
+                  </a>
+                </div>
+                <div class="products-text">Monkey Toys</div>
+                <div class="products-price">$783</div>
+              </div>
+            </div>
+            <div
+              class="col-6 col-md-4 col-lg-3"
+              data-aos="fade-up"
+              data-aos-delay="800"
+            >
+              <div class="component-products d-block">
+                <div class="products-thumbnail">
+                  <div
+                    class="products-image"
+                    style="
+                      background-image: url('<?= base_url()?>layout/images/new-products/products-8.jpg');
+                    "
+                  ></div>
+                  <a href="details.html" class="d-flex justify-content-center">
+                    <img src="<?= base_url()?>layout/images/badge.png" class="align-self-center" />
+                  </a>
+                </div>
+                <div class="products-text">Monkey Toys</div>
+                <div class="products-price">$783</div>
+              </div>
+            </div>
+            <div
+              class="col-6 col-md-4 col-lg-3"
+              data-aos="fade-up"
+              data-aos-delay="800"
+            >
+              <div class="component-products d-block">
+                <div class="products-thumbnail">
+                  <div
+                    class="products-image"
+                    style="
+                      background-image: url('<?= base_url()?>layout/images/new-products/products-8.jpg');
+                    "
+                  ></div>
+                  <a href="details.html" class="d-flex justify-content-center">
+                    <img src="<?= base_url()?>layout/images/badge.png" class="align-self-center" />
+                  </a>
+                </div>
+                <div class="products-text">Monkey Toys</div>
+                <div class="products-price">$783</div>
+              </div>
+            </div>
           </div>
         </div>
       </section>
