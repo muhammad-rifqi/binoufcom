@@ -4632,6 +4632,7 @@ input[type="button"].btn-block {
       -ms-flex-pack: justify;
           justify-content: space-between;
   padding: 0.5rem 1rem;
+  
 }
 
 .navbar .container,
@@ -10878,6 +10879,7 @@ footer p {
   background-color: #fff !important;
   -webkit-transition: background-color 200ms linear;
   transition: background-color 200ms linear;
+  
 }
 
 .page-home h5 {
@@ -11165,7 +11167,7 @@ footer p {
 }
 
 .component-categories {
-  background: #f4f4f4;
+  background: #0E185F;
   border-radius: 8px;
   padding: 30px 30px 10px 30px;
   margin-bottom: 20px;
@@ -11182,7 +11184,7 @@ footer p {
 .component-categories .categories-text {
   font-size: 18px;
   text-align: center;
-  color: #0c0d36;
+  color: #fff;
   font-weight: normal;
   margin-top: 12px;
 }
@@ -11239,7 +11241,7 @@ footer p {
 .component-products .products-text {
   font-weight: normal;
   font-size: 18px;
-  color: #0c0d36;
+  color: #0E185F;
   margin-top: 12px;
 }
 

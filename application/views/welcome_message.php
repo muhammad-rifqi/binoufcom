@@ -56,7 +56,7 @@
             <li class="nav-item">
               <a
                 href="<?= base_url('login');?>"
-                class="btn btn-success nav-link px-4 text-white"
+                class="btn btn-warning nav-link px-4 text-white"
                 >Sign In</a
               >
             </li>
