@@ -42,20 +42,20 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item active">
-              <a href="index.html" class="nav-link">Home</a>
+              <a href="<?= base_url()?>" class="nav-link">Home</a>
             </li>
             <li class="nav-item">
-              <a href="categories.html" class="nav-link">Categories</a>
+              <a href="<?= base_url('category');?>" class="nav-link">Categories</a>
             </li>
             <li class="nav-item">
-              <a href="#" class="nav-link">Rewards</a>
+              <a href="<?= base_url('reward');?>" class="nav-link">Rewards</a>
             </li>
             <li class="nav-item">
-              <a href="register.html" class="nav-link">Sign Up</a>
+              <a href="<?= base_url('register');?>" class="nav-link">Sign Up</a>
             </li>
             <li class="nav-item">
               <a
-                href="login.html"
+                href="<?= base_url('login');?>"
                 class="btn btn-success nav-link px-4 text-white"
                 >Sign In</a
               >
@@ -289,7 +289,7 @@
               data-aos="fade-up"
               data-aos-delay="400"
             >
-              <div href="details.html" class="component-products d-block">
+              <div href="<?= base_url('detail');?>" class="component-products d-block">
                 <div class="products-thumbnail">
                   <div
                     class="products-image"
@@ -318,7 +318,7 @@
                       background-image: url('<?= base_url()?>layout/images/new-products/peroducts-5.jpg');
                     "
                   ></div>
-                  <a href="details.html" class="d-flex justify-content-center">
+                  <a href="<?= base_url('detail');?>" class="d-flex justify-content-center">
                     <img src="<?= base_url()?>layout/images/badge.png" class="align-self-center" />
                   </a>
                 </div>
@@ -339,7 +339,7 @@
                       background-image: url('<?= base_url()?>layout/images/new-products/peroducts-6.jpg');
                     "
                   ></div>
-                  <a href="details.html" class="d-flex justify-content-center">
+                  <a href="<?= base_url('detail');?>" class="d-flex justify-content-center">
                     <img src="<?= base_url()?>layout/images/badge.png" class="align-self-center" />
                   </a>
                 </div>
@@ -360,7 +360,7 @@
                       background-image: url('<?= base_url()?>layout/images/new-products/peroducts-7.jpg');
                     "
                   ></div>
-                  <a href="details.html" class="d-flex justify-content-center">
+                  <a href="<?= base_url('detail');?>" class="d-flex justify-content-center">
                     <img src="<?= base_url()?>layout/images/badge.png" class="align-self-center" />
                   </a>
                 </div>
@@ -381,7 +381,7 @@
                       background-image: url('<?= base_url()?>layout/images/new-products/products-8.jpg');
                     "
                   ></div>
-                  <a href="details.html" class="d-flex justify-content-center">
+                  <a href="<?= base_url('detail');?>" class="d-flex justify-content-center">
                     <img src="<?= base_url()?>layout/images/badge.png" class="align-self-center" />
                   </a>
                 </div>
