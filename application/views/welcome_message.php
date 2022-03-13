@@ -223,7 +223,7 @@
               data-aos="fade-up"
               data-aos-delay="400"
             >
-              <div href="<?= base_url('detail');?>" class="component-products d-block">
+              <div class="component-products d-block">
                 <div class="products-thumbnail">
                   <div
                     class="products-image"
@@ -252,7 +252,7 @@
                       background-image: url('<?= base_url()?>layout/images/new-products/peroducts-5.jpg');
                     "
                   ></div>
-                  <a href="<?= base_url('detail');?>" class="d-flex justify-content-center">
+                  <a href="<?= site_url('welcome/detailProducts')?>" class="d-flex justify-content-center">
                     <img src="<?= base_url()?>layout/images/badge.png" class="align-self-center" />
                   </a>
                 </div>
@@ -273,7 +273,7 @@
                       background-image: url('<?= base_url()?>layout/images/new-products/peroducts-6.jpg');
                     "
                   ></div>
-                  <a href="<?= base_url('detail');?>" class="d-flex justify-content-center">
+                  <a href="<?= site_url('welcome/detailProducts')?>" class="d-flex justify-content-center">
                     <img src="<?= base_url()?>layout/images/badge.png" class="align-self-center" />
                   </a>
                 </div>
@@ -294,7 +294,7 @@
                       background-image: url('<?= base_url()?>layout/images/new-products/peroducts-7.jpg');
                     "
                   ></div>
-                  <a href="<?= base_url('detail');?>" class="d-flex justify-content-center">
+                  <a href="<?= site_url('welcome/detailProducts')?>" class="d-flex justify-content-center">
                     <img src="<?= base_url()?>layout/images/badge.png" class="align-self-center" />
                   </a>
                 </div>
@@ -315,7 +315,7 @@
                       background-image: url('<?= base_url()?>layout/images/new-products/products-8.jpg');
                     "
                   ></div>
-                  <a href="<?= base_url('detail');?>" class="d-flex justify-content-center">
+                  <a href="<?= site_url('welcome/detailProducts')?>" class="d-flex justify-content-center">
                     <img src="<?= base_url()?>layout/images/badge.png" class="align-self-center" />
                   </a>
                 </div>
