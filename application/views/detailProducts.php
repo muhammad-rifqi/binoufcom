@@ -72,7 +72,7 @@
               <div class="col-lg-2" data-aos="zoom-in">
                 <a
                   href="cart.html"
-                  class="btn btn-success px-4 text-white btn-block mb-3"
+                  class="btn btn-warning px-4 text-white btn-block mb-3"
                   >Add To Cart</a
                 >
               </div>
