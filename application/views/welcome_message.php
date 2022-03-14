@@ -32,7 +32,7 @@
             <a href="<?= base_url() ?>" class="nav-link">Home</a>
           </li>
           <li class="nav-item">
-            <a href="<?= base_url('category'); ?>" class="nav-link">Categories</a>
+            <a href="<?= base_url('categories'); ?>" class="nav-link">Categories</a>
           </li>
           <li class="nav-item">
             <a href="<?= base_url('reward'); ?>" class="nav-link">Rewards</a>
@@ -149,7 +149,7 @@
                 <div class="products-image" style="
                       background-image: url('<?= base_url() ?>layout/images/new-products/peroducts-1.jpg');
                     "></div>
-                <a href="<?= site_url('welcome/detailProducts') ?>" class="d-flex justify-content-center">
+                <a href="<?= site_url('detailProducts') ?>" class="d-flex justify-content-center">
                   <img src="<?= base_url() ?>layout/images/badge.png" class="align-self-center" />
                 </a>
               </div>
@@ -164,7 +164,7 @@
                 <div class="products-image" style="
                       background-image: url('<?= base_url() ?>layout/images/new-products/peroducts-1.jpg');
                     "></div>
-                <a href="<?= site_url('welcome/detailProducts') ?>" class="d-flex justify-content-center">
+                <a href="<?= site_url('detailProducts') ?>" class="d-flex justify-content-center">
                   <img src="<?= base_url() ?>layout/images/badge.png" class="align-self-center" />
                 </a>
               </div>
@@ -178,7 +178,7 @@
                 <div class="products-image" style="
                       background-image: url('<?= base_url() ?>layout/images/new-products/peroducts-3.jpg');
                     "></div>
-                <a href="<?= site_url('welcome/detailProducts') ?>" class="d-flex justify-content-center">
+                <a href="<?= site_url('detailProducts') ?>" class="d-flex justify-content-center">
                   <img src="<?= base_url() ?>layout/images/badge.png" class="align-self-center" />
                 </a>
               </div>
@@ -206,7 +206,7 @@
                 <div class="products-image" style="
                       background-image: url('<?= base_url() ?>layout/images/new-products/peroducts-5.jpg');
                     "></div>
-                <a href="<?= site_url('welcome/detailProducts') ?>" class="d-flex justify-content-center">
+                <a href="<?= site_url('detailProducts') ?>" class="d-flex justify-content-center">
                   <img src="<?= base_url() ?>layout/images/badge.png" class="align-self-center" />
                 </a>
               </div>
@@ -220,7 +220,7 @@
                 <div class="products-image" style="
                       background-image: url('<?= base_url() ?>layout/images/new-products/peroducts-6.jpg');
                     "></div>
-                <a href="<?= site_url('welcome/detailProducts') ?>" class="d-flex justify-content-center">
+                <a href="<?= site_url('detailProducts') ?>" class="d-flex justify-content-center">
                   <img src="<?= base_url() ?>layout/images/badge.png" class="align-self-center" />
                 </a>
               </div>
@@ -234,7 +234,7 @@
                 <div class="products-image" style="
                       background-image: url('<?= base_url() ?>layout/images/new-products/peroducts-7.jpg');
                     "></div>
-                <a href="<?= site_url('welcome/detailProducts') ?>" class="d-flex justify-content-center">
+                <a href="<?= site_url('detailProducts') ?>" class="d-flex justify-content-center">
                   <img src="<?= base_url() ?>layout/images/badge.png" class="align-self-center" />
                 </a>
               </div>
@@ -248,7 +248,7 @@
                 <div class="products-image" style="
                       background-image: url('<?= base_url() ?>layout/images/new-products/products-8.jpg');
                     "></div>
-                <a href="<?= site_url('welcome/detailProducts') ?>" class="d-flex justify-content-center">
+                <a href="<?= site_url('detailProducts') ?>" class="d-flex justify-content-center">
                   <img src="<?= base_url() ?>layout/images/badge.png" class="align-self-center" />
                 </a>
               </div>
@@ -262,7 +262,7 @@
                 <div class="products-image" style="
                       background-image: url('<?= base_url() ?>layout/images/new-products/products-8.jpg');
                     "></div>
-                <a href="<?= site_url('welcome/detailProducts') ?>" class="d-flex justify-content-center">
+                <a href="<?= site_url('detailProducts') ?>" class="d-flex justify-content-center">
                   <img src="<?= base_url() ?>layout/images/badge.png" class="align-self-center" />
                 </a>
               </div>
@@ -276,7 +276,7 @@
                 <div class="products-image" style="
                       background-image: url('<?= base_url() ?>layout/images/new-products/products-8.jpg');
                     "></div>
-                <a href="<?= site_url('welcome/detailProducts') ?>" class="d-flex justify-content-center">
+                <a href="<?= site_url('detailProducts') ?>" class="d-flex justify-content-center">
                   <img src="<?= base_url() ?>layout/images/badge.png" class="align-self-center" />
                 </a>
               </div>
@@ -290,7 +290,7 @@
                 <div class="products-image" style="
                       background-image: url('<?= base_url() ?>layout/images/new-products/products-8.jpg');
                     "></div>
-                <a href="<?= site_url('welcome/detailProducts') ?>" class="d-flex justify-content-center">
+                <a href="<?= site_url('detailProducts') ?>" class="d-flex justify-content-center">
                   <img src="<?= base_url() ?>layout/images/badge.png" class="align-self-center" />
                 </a>
               </div>
@@ -304,7 +304,7 @@
                 <div class="products-image" style="
                       background-image: url('<?= base_url() ?>layout/images/new-products/products-8.jpg');
                     "></div>
-                <a href="<?= site_url('welcome/detailProducts') ?>" class="d-flex justify-content-center">
+                <a href="<?= site_url('detailProducts') ?>" class="d-flex justify-content-center">
                   <img src="<?= base_url() ?>layout/images/badge.png" class="align-self-center" />
                 </a>
               </div>
@@ -318,7 +318,7 @@
                 <div class="products-image" style="
                       background-image: url('<?= base_url() ?>layout/images/new-products/products-8.jpg');
                     "></div>
-                <a href="<?= site_url('welcome/detailProducts') ?>" class="d-flex justify-content-center">
+                <a href="<?= site_url('detailProducts') ?>" class="d-flex justify-content-center">
                   <img src="<?= base_url() ?>layout/images/badge.png" class="align-self-center" />
                 </a>
               </div>
@@ -332,7 +332,7 @@
                 <div class="products-image" style="
                       background-image: url('<?= base_url() ?>layout/images/new-products/products-8.jpg');
                     "></div>
-                <a href="<?= site_url('welcome/detailProducts') ?>" class="d-flex justify-content-center">
+                <a href="<?= site_url('detailProducts') ?>" class="d-flex justify-content-center">
                   <img src="<?= base_url() ?>layout/images/badge.png" class="align-self-center" />
                 </a>
               </div>
@@ -346,7 +346,7 @@
                 <div class="products-image" style="
                       background-image: url('<?= base_url() ?>layout/images/new-products/products-8.jpg');
                     "></div>
-                <a href="<?= site_url('welcome/detailProducts') ?>" class="d-flex justify-content-center">
+                <a href="<?= site_url('detailProducts') ?>" class="d-flex justify-content-center">
                   <img src="<?= base_url() ?>layout/images/badge.png" class="align-self-center" />
                 </a>
               </div>
@@ -360,7 +360,7 @@
                 <div class="products-image" style="
                       background-image: url('<?= base_url() ?>layout/images/new-products/products-8.jpg');
                     "></div>
-                <a href="<?= site_url('welcome/detailProducts') ?>" class="d-flex justify-content-center">
+                <a href="<?= site_url('detailProducts') ?>" class="d-flex justify-content-center">
                   <img src="<?= base_url() ?>layout/images/badge.png" class="align-self-center" />
                 </a>
               </div>
@@ -374,7 +374,7 @@
                 <div class="products-image" style="
                       background-image: url('<?= base_url() ?>layout/images/new-products/products-8.jpg');
                     "></div>
-                <a href="<?= site_url('welcome/detailProducts') ?>" class="d-flex justify-content-center">
+                <a href="<?= site_url('detailProducts') ?>" class="d-flex justify-content-center">
                   <img src="<?= base_url() ?>layout/images/badge.png" class="align-self-center" />
                 </a>
               </div>
@@ -388,7 +388,7 @@
                 <div class="products-image" style="
                       background-image: url('<?= base_url() ?>layout/images/new-products/products-8.jpg');
                     "></div>
-                <a href="<?= site_url('welcome/detailProducts') ?>" class="d-flex justify-content-center">
+                <a href="<?= site_url('detailProducts') ?>" class="d-flex justify-content-center">
                   <img src="<?= base_url() ?>layout/images/badge.png" class="align-self-center" />
                 </a>
               </div>
@@ -402,7 +402,7 @@
                 <div class="products-image" style="
                       background-image: url('<?= base_url() ?>layout/images/new-products/products-8.jpg');
                     "></div>
-                <a href="<?= site_url('welcome/detailProducts') ?>" class="d-flex justify-content-center">
+                <a href="<?= site_url('detailProducts') ?>" class="d-flex justify-content-center">
                   <img src="<?= base_url() ?>layout/images/badge.png" class="align-self-center" />
                 </a>
               </div>
@@ -416,7 +416,7 @@
                 <div class="products-image" style="
                       background-image: url('<?= base_url() ?>layout/images/new-products/products-8.jpg');
                     "></div>
-                <a href="<?= site_url('welcome/detailProducts') ?>" class="d-flex justify-content-center">
+                <a href="<?= site_url('detailProducts') ?>" class="d-flex justify-content-center">
                   <img src="<?= base_url() ?>layout/images/badge.png" class="align-self-center" />
                 </a>
               </div>

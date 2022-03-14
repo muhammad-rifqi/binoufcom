@@ -41,11 +41,11 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav ml-auto">
-            <li class="nav-item active">
+            <li class="nav-item">
               <a href="<?= base_url()?>" class="nav-link">Home</a>
             </li>
             <li class="nav-item">
-              <a href="<?= base_url('category');?>" class="nav-link">Categories</a>
+              <a href="<?= base_url('categories');?>" class="nav-link">Categories</a>
             </li>
             <li class="nav-item">
               <a href="<?= base_url('reward');?>" class="nav-link">Rewards</a>
