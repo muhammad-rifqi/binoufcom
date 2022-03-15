@@ -138,7 +138,7 @@
               </div>
               <div class="col-lg-2" data-aos="zoom-in">
                 <a
-                  href="cart.html"
+                  href="<?= base_url('cart');?>"
                   class="btn btn-warning px-4 text-white btn-block mb-3"
                   >Add To Cart</a
                 >
